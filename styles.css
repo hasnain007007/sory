@@ -520,17 +520,6 @@ main {
   border-radius: 2px;
 }
 
-.letter-meta {
-  position: relative;
-  z-index: 1;
-  font-family: var(--font-display);
-  font-size: clamp(0.75rem, 2.6vw, 0.85rem);
-  font-style: italic;
-  color: #8a7399;
-  letter-spacing: 0.04em;
-  margin-bottom: 1.1rem;
-}
-
 .letter-greeting {
   position: relative;
   z-index: 1;
